@@ -1,0 +1,27 @@
+spriteTypes = { 
+##Icon For: 1236208
+ SpriteType = { 
+ name = "GFX_kriegsspiel" 
+ texturefile = "gfx/interface/goals/GFX_kriegsspiel.tga" 
+ }##Icon For: 1235990
+ SpriteType = { 
+ name = "GFX_reformstothecabinet" 
+ texturefile = "gfx/interface/goals/GFX_reformstothecabinet.tga" 
+ }##Icon For: 1236197
+ SpriteType = { 
+ name = "GFX_skirmishwarfare" 
+ texturefile = "gfx/interface/goals/GFX_skirmishwarfare.tga" 
+ }##Icon For: 1236199
+ SpriteType = { 
+ name = "GFX_calvary" 
+ texturefile = "gfx/interface/goals/GFX_calvary.tga" 
+ }##Icon For: 1267415
+ SpriteType = { 
+ name = "GFX_forcethewealthytopaycompensation" 
+ texturefile = "gfx/interface/goals/GFX_forcethewealthytopaycompensation.tga" 
+ }##Icon For: 1267376
+ SpriteType = { 
+ name = "GFX_education" 
+ texturefile = "gfx/interface/goals/GFX_education.tga" 
+ } 
+ }
